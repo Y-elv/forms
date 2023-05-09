@@ -1,0 +1,10 @@
+button {
+    width: 40%;
+}
+.red{
+    color: brown;
+}
+.green{
+    color: rgb(67, 165, 42);
+    background-color: aqua;
+}
